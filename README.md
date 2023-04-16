@@ -3,12 +3,12 @@
 # Description
   This project contains a Javascript file that helps you create a professional README by answering a few prompts. As a stendent, sometimes with so much information coming my way, I can feel overwhemed with remembering exactly what to include in my README file. This project creates an easy way to remember and keep track of what to include in a professional README, and it will organize my information so it looks clean and polished.
   
-#User Story
+# User Story
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
-#Acceptance Criteria
+# Acceptance Criteria
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -25,5 +25,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-#Screenshot
+# Screenshot
 ![image](https://user-images.githubusercontent.com/122223756/232344342-ce876228-8537-4a20-81f8-b0fd3844d8f9.png)
+
+# Github
+
